@@ -1,0 +1,12 @@
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.csproj.AssemblyReference.cache
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.Server.resources
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\bin\Debug\ServerForm.exe.config
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\bin\Debug\ServerForm.exe
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\bin\Debug\ServerForm.pdb
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\bin\Debug\NCalc.dll
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.csproj.CopyComplete
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.exe
+E:\BNTU\2курс\РПВС\Курсовая\ServerForm\obj\Debug\ServerForm.pdb

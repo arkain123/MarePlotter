@@ -1,0 +1,8 @@
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\bin\Debug\RungeKutta4.dll
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\bin\Debug\RungeKutta4.pdb
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\bin\Debug\NCalc.dll
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\obj\Debug\RungeKutta4.csproj.AssemblyReference.cache
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\obj\Debug\RungeKutta4.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\obj\Debug\RungeKutta4.csproj.CopyComplete
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\obj\Debug\RungeKutta4.dll
+E:\BNTU\2курс\РПВС\Курсовая\RungeKutta4\obj\Debug\RungeKutta4.pdb

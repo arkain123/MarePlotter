@@ -1,0 +1,9 @@
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\bin\Debug\ServerConsole.exe.config
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\bin\Debug\ServerConsole.exe
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\bin\Debug\ServerConsole.pdb
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\obj\Debug\ServerConsole.exe
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\obj\Debug\ServerConsole.pdb
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\bin\Debug\NCalc.dll
+E:\BNTU\2курс\РПВС\Курсовая\ServerConsole\obj\Debug\Server.csproj.CopyComplete
